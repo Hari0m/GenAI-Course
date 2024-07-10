@@ -1,0 +1,9 @@
+langchain
+streamlit
+python-dotenv
+PyPDF2
+ai21>=2.2.0
+langchain-ai21
+ipykernel
+
+-e .

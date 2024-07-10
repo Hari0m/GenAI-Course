@@ -1,0 +1,5 @@
+JAMBA
+langchain
+streamlit
+python-dotenv
+PyPDF2
